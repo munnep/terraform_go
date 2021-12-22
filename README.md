@@ -2,7 +2,7 @@
 Build terraform with go
 
 Terraform source code location
-![https://github.com/hashicorp/terraform](https://github.com/hashicorp/terraform)
+[https://github.com/hashicorp/terraform](https://github.com/hashicorp/terraform)
 
 # build terraform from source
 
