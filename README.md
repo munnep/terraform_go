@@ -1,11 +1,13 @@
 # terraform_go
 Build terraform with go
 
-Terraform source code location
-[https://github.com/hashicorp/terraform](https://github.com/hashicorp/terraform)
+This repository show how to build a terraform version locally on your macbook. Will change this in the future to a Vagrant manual with linux. 
+
+## prerequiste
+- Make sure you have Go installed on your macbook [https://go.dev/doc/install](https://go.dev/doc/install)
+
 
 # build terraform from source
-
 - clone the terraform repository
 ```
 git clone https://github.com/hashicorp/terraform.git
